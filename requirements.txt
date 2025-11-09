@@ -1,7 +1,4 @@
 fastapi
 uvicorn
-librosa
+pydantic
 yt-dlp
-scikit-learn
-soundfile
-numpy
